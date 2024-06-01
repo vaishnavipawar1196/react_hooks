@@ -1,0 +1,16 @@
+.App {
+  text-align: center;
+  margin-top: 50px;
+}
+
+a.active{
+  color: red;
+  background: antiquewhite !important;
+}
+
+.App a{
+background: lightgrey;
+padding: 12px 20px;
+margin: 10px;
+text-decoration: none;
+}
